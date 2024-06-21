@@ -1,0 +1,39 @@
+.title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* border: 1px solid green; */
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  top: 15%;
+  left: 41%;
+}
+
+.timer-div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  /* border: 1px solid green; */
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 25.7%;
+  left: 41%;
+}
+
+.timer-button {
+  width: auto;
+  margin-right: 5px;
+  border-radius: 5%;
+  border: none;
+  background-color: #619681; 
+  color: white;
+  padding: 5px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  
+}
